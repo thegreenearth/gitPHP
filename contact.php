@@ -4,6 +4,7 @@
 
 <?php
 echo "Contact";
+echo "Change Contact";
 ?>
 
 </body>

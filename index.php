@@ -4,11 +4,6 @@
 
 <?php
 echo "My first PHP script!";
-echo "Add code to file";
-echo "Add code to file";
-echo "My first PHP script!";
-echo "Add code to file";
-echo "Add code to file";
 ?>
 
 </body>
